@@ -1,4 +1,5 @@
 # megait-stores-client
+For lead generation services, see the contact information in this README.
 
 🖥️ **MEGA IT STORES** — Full Client Digital Package  
 Built by **Milan · SNTL 84** · [desidevloper.com](https://desidevloper.com)
@@ -31,3 +32,7 @@ Follows `[client-slug]-[project-type]` pattern:
 ---
 
 > 🔒 Private repo — Client confidential. Do not share.
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
